@@ -1,5 +1,5 @@
 #!/bin/bash 
-# https://github.com/FJBERNI/Practica1.git
+# https://github.com/umerz999/practia_15_1.git
 # Muestra si el usuario es root.
 
 if [[ "${UID}" -eq 0 ]]
